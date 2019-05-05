@@ -9,6 +9,6 @@ The presentation video can be found on youtube here:
 https://www.youtube.com/watch?v=J0SvFU2TUI8
 
 Other github repositories associated with this project:
-https://github.com/Catabit/Self-Driving-Car-DevBranch
-https://github.com/ionascuandrei/Self-Driving-Car/
-https://github.com/mirelonni/zybo_camera_control
+  * https://github.com/Catabit/Self-Driving-Car-DevBranch
+  * https://github.com/ionascuandrei/Self-Driving-Car/ 
+  * https://github.com/mirelonni/zybo_camera_control
